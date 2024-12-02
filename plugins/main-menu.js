@@ -34,6 +34,7 @@ const defaultMenu = {
 │  ≡◦ *🍭 Nombre ∙* %name
 │  ≡◦ *🍬 Dulces ∙* %limit
 │  ≡◦ *💫 XP ∙* %totalexp
+   ≡◦ *⏳ Tiempo Activo* : *%muptime*
 │  ≡◦ *🐢 Nivel ∙* %level
 ╰──⬣
 %readmore
